@@ -1,0 +1,22 @@
+{
+  "toolbar": {
+	"eyebrow": "The White House Historical Association",
+	"institutionName": "The White House Historical Association",
+	"logoAlt": "Logo de The White House Historical Association",
+	"localeLabel": "Seleccionar idioma de la interfaz"
+  },
+  "presidents": {
+	"eyebrow": "Explora el archivo",
+	"title": "Presidentes de Estados Unidos",
+	"description": "Revisa los datos presidenciales publicados por SampleAPIs y abre cada biografía en una nueva pestaña del navegador.",
+	"loading": "Cargando presidentes...",
+	"error": "No pudimos cargar la lista de presidentes. Inténtalo de nuevo.",
+	"retry": "Reintentar",
+	"card": {
+	  "ordinal": "Ordinal",
+	  "yearsInOffice": "Años en el cargo",
+	  "vicePresidents": "Vicepresidentes",
+	  "seeBiography": "Ver biografía"
+	}
+  }
+}

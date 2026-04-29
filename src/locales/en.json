@@ -1,0 +1,22 @@
+{
+  "toolbar": {
+	"eyebrow": "The White House Historical Association",
+	"institutionName": "The White House Historical Association",
+	"logoAlt": "The White House Historical Association logo",
+	"localeLabel": "Select interface language"
+  },
+  "presidents": {
+	"eyebrow": "Explore the archive",
+	"title": "US Presidents",
+	"description": "Review the presidency data published by SampleAPIs and open each biography in a new browser tab.",
+	"loading": "Loading presidents...",
+	"error": "We could not load the presidents list. Please try again.",
+	"retry": "Retry",
+	"card": {
+	  "ordinal": "Ordinal",
+	  "yearsInOffice": "Years in office",
+	  "vicePresidents": "Vice presidents",
+	  "seeBiography": "See Biography"
+	}
+  }
+}
